@@ -28,10 +28,10 @@
     </developer>
   </developers>
   <scm>
-    <connection>scm:git:git@github.com:tomsquest/logback-servlet.git</connection>
-    <developerConnection>scm:git:git@github.com:tomsquest/logback-servlet.git</developerConnection>
+    <connection>scm:git:git@github.com:bentatham/logback-servlet.git</connection>
+    <developerConnection>scm:git:git@github.com:bentatham/logback-servlet.git</developerConnection>
     <tag>HEAD</tag>
-    <url>git@github.com:tomsquest/logback-servlet.git</url>
+    <url>git@github.com:bentatham/logback-servlet.git</url>
   </scm>
   <issueManagement>
     <system>github</system>
