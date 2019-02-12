@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.tomsquest</groupId>
   <artifactId>logback-servlet</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>logback-servlet</name>
   <url>https://github.com/tomsquest/logback</url>
@@ -30,7 +30,7 @@
   <scm>
     <connection>scm:git:git@github.com:bentatham/logback-servlet.git</connection>
     <developerConnection>scm:git:git@github.com:bentatham/logback-servlet.git</developerConnection>
-    <tag>logback-servlet-1.0.0</tag>
+    <tag>HEAD</tag>
     <url>git@github.com:bentatham/logback-servlet.git</url>
   </scm>
   <issueManagement>
